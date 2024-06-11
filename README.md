@@ -7,10 +7,16 @@
 
 # 💻 Tech Stack:
 ### Languages I Code In
- <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50"  src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="50"/> <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50" /> &nbsp; <img  height="50" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" /> 
 
 ### Frameworks and Libraries &  IDEs
-<img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://www.chartjs.org/media/logo-title.svg" height="50" />
+
+### Database
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50" />
+
+### Designs
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="50"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="50"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="50" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" />
 
  ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AshanLEO) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/ashanleo) 
