@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Ashan_LEO
 
 Software Engineering Student @ Java Institute of Advanced Technology
-<img align="right" width="370" height="290" src="https://camo.githubusercontent.com/da9cb04bccedf52282c05a5efba11f04b1248085b5de97103fc6418bbb1cba03/68747470733a2f2f632e74656e6f722e636f6d2f55673663625641315a734d41414141642f646576656c6f7065722e676966">
+<img align="right" width="390" height="300" src="https://camo.githubusercontent.com/da9cb04bccedf52282c05a5efba11f04b1248085b5de97103fc6418bbb1cba03/68747470733a2f2f632e74656e6f722e636f6d2f55673663625641315a734d41414141642f646576656c6f7065722e676966">
 - 🔭 Here's my [portfolio] (currently under maintenance)                                       
 - 💀 I’m currently learning **Coding**
 - 🧑‍🎓 I’m an Undergraduate at **JIAT**
