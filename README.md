@@ -1,23 +1,15 @@
-# Let's Coding
-<img src="[https://jmp.sh/s/26UC8MwO5fd7fAEqvkya](https://gifyu.com/image/SYFhy)" height="50"/>
+## Hi there 👋 It's me Ashan_LEO
 
+Software Engineering Student @ Java Institute of Advanced Technology
+<img align="right" width="370" height="290" src="https://camo.githubusercontent.com/da9cb04bccedf52282c05a5efba11f04b1248085b5de97103fc6418bbb1cba03/68747470733a2f2f632e74656e6f722e636f6d2f55673663625641315a734d41414141642f646576656c6f7065722e676966">
+- 🔭 Here's my [portfolio] (currently under maintenance)                                       
+- 💀 I’m currently learning **Coding**
+- 🧑‍🎓 I’m an Undergraduate at **JIAT**
+- 🤔 I’m a first-year student seeking guidance for future placements in top tech companies
+- 💬 Ask me about **Web development**
+- 📫 How to catch me **rraskrocky@gmail.com**
+- ⚡ You can **Call me, LEO**
 
-# 💫 About Me:
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 💀 I’m currently learning **Coding**<br><br>- 🧑‍🎓 I’m an Undergraduate at **JIAT**<br><br>- 💬 Ask me about **Web development**<br><br>- 📫 How to catch me **rraskrocky@gmail.com**<br><br>-  ⚡ You can **Call me, LEO**
-
-</td>
-
-<td width="50%" align="center">
-  <img align="right" alt="coding" src="https://camo.githubusercontent.com/da9cb04bccedf52282c05a5efba11f04b1248085b5de97103fc6418bbb1cba03/68747470733a2f2f632e74656e6f722e636f6d2f55673663625641315a734d41414141642f646576656c6f7065722e676966" width="100%">
-</td>
-  
-</tr>
-
-</table>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Ashan_LEO) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AshanLEOX) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashanleox) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashan-sanchitha) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ashan_leo) 
