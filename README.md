@@ -6,7 +6,7 @@ Software Engineering Student @ Java Institute of Advanced Technology
 - 💀 I’m currently learning **Coding**
 - 🧑‍🎓 I’m an Undergraduate at **JIAT**
 - 🤔 I’m a first-year student seeking guidance for future placements in top tech companies
-- 👨‍💻 Founder of KreedX Club. 🌆
+- 👨‍💻 One of Founder of **KreedX Club.** 🌆
 - 💬 Ask me about **Web development**
 - 📫 How to catch me **rraskrocky@gmail.com**
 - ⚡ You can **Call me, LEO**
