@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Ashan_LEO
 
 Software Engineering Student @ Java Institute of Advanced Technology
-<img align="right" width="350" height="280" src="https://www.freepik.com/free-vector/development-concept-illustration_5798429.htm">
+<img align="right" width="350" height="280" src="https://ibb.co/WDd9xR8">
 - 🔭 Here's my [portfolio] (currently under maintenance)                                       
 - 💀 I’m currently learning **Coding**
 - 🧑‍🎓 I’m an Undergraduate at **JIAT**
