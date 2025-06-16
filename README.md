@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Ashan_LEO
 
 Founder at KreedX Developer Club
-<img align="right" width="350" height="280" src="https://yourhost.com/path/to/red-coder.gif">                                      
+<img align="right" width="200" src="https://yourhost.com/path/to/red-coder.gif" alt="Red Coding Boy" />                  
 - 💀 I’m currently learning **Coding**
 - 🧑‍🎓 I’m an Undergraduate Student
 - 👨‍💻 One of Founder of **KreedX.** 🌆
