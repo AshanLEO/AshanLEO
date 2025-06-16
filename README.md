@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Ashan_LEO
 
 Founder at KreedX Developer Club
-<img align="right" width="350" height="280" src="https://videocdn.cdnpk.net/videos/74408fd8-315e-5c69-974a-f2362a5dcae3/horizontal/previews/clear/large.mp4?token=exp=1750092555~hmac=31eb6facc374a8768484b29a776e951cf431a36533e6acb4aadfbcf98be20889">                                      
+<img align="right" width="350" height="280" src="https://yourhost.com/path/to/red-coder.gif">                                      
 - 💀 I’m currently learning **Coding**
 - 🧑‍🎓 I’m an Undergraduate Student
 - 👨‍💻 One of Founder of **KreedX.** 🌆
