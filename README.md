@@ -1,13 +1,11 @@
 ## Hi there 👋 It's me Ashan_LEO
 
 Founder at KreedX Developer Club
-<img align="right" width="350" height="280" src="https://ibb.co/WDd9xR8">
-- 🔭 Here's my [portfolio] (currently under maintenance)                                       
+<img align="right" width="350" height="280" src="https://ibb.co/WDd9xR8">                                      
 - 💀 I’m currently learning **Coding**
-- 🧑‍🎓 I’m an Undergraduate at **JIAT**
-- 🤔 I’m a first-year student seeking guidance for future placements in top tech companies
+- 🧑‍🎓 I’m an Undergraduate Student
 - 👨‍💻 One of Founder of **KreedX.** 🌆
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Web development and Game development**
 - 📫 How to catch me **rraskrocky@gmail.com**
 - ⚡ You can **Call me, LEO**
 
