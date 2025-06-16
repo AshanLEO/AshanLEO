@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Ashan_LEO
 
-Software Engineering Student @ Java Institute of Advanced Technology
+Founder at KreedX Developer Club
 <img align="right" width="350" height="280" src="https://ibb.co/WDd9xR8">
 - 🔭 Here's my [portfolio] (currently under maintenance)                                       
 - 💀 I’m currently learning **Coding**
